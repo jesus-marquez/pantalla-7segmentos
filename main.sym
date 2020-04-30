@@ -1,0 +1,52 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+009-00A @READ_PROGRAM_MEMORY8.P1
+00C     @SCRATCH
+00D     @SCRATCH
+00D     _RETURN_
+00E     @SCRATCH
+00F     @SCRATCH
+011     main.i
+012     @delay_ms1.P1
+085     TRISA
+
+ROM Allocation:
+000004  @delay_ms1
+000018  @cinit1
+000018  main
+00001B  @cinit2
+0020  inicio
+
+Project Directory:
+    C:\Users\metamorfosis\Documents\programacion avanzada\micros\simulaciones\pantalla 7 segmentos\
+
+Project Files:
+    main.c                                                  [24-sep.-18 12:42  CRC=CC77E8C6]
+    ..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16f84a.h [10-jul.-18 10:11  CRC=210D3403]
+
+Source signature=0E9250CC
+Program memory checksum=0000
+Program memory CRC=0000
+Hex file CRC=B06F
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC16F84A
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   main.xsym
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.ccspjt
+    Call Tree:   main.tre
+    Statistics:  main.STA

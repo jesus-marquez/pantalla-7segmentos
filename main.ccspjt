@@ -1,0 +1,47 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F84A
+CCSVerions=5.079
+Compiler=PCM
+CCSVersion=5.079
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\metamorfosis\Documents\programacion avanzada\micros\simulaciones\pantalla 7 segmentos\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=24-09-2018
+D1_L=8
+D1_L1=[44698]Project Opened.
+D1_L2=[44710]Started Editing.
+D1_L3=[45339]Stopped Editing.
+D1_L4=[45480]Started Editing.
+D1_L5=[46020]Stopped Editing.
+TotalEdit=10
+TotalDebug=0
+D1_E=10
+D1_D=0
+D1_L6=[48151]Project Closed.
+D1_L7=[70964]Project Opened.
+D1_L8=[71028]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=1
+Count=1
+[main.c]
+Type=4
+
+[defines]
+buildcount=3
+[Units]
+Count=1
+1=main (main)
